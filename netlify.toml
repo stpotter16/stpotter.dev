@@ -11,7 +11,3 @@ command = """\
   git config core.quotepath false && \
   hugo --gc --minify --baseURL "${URL}"
   """
-
-[build.environment]
-HUGO_VERSION = "0.150.0"
-
