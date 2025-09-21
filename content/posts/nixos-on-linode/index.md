@@ -1,6 +1,5 @@
 +++
-date = '2025-09-16'
-draft = true
+date = '2025-09-21'
 title = 'NixOs on Linode'
 +++
 ## Introduction
