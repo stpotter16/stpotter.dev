@@ -1,6 +1,6 @@
 +++
 date = '2025-09-21'
-title = 'NixOs on Linode'
+title = 'NixOS on Linode'
 +++
 ## Introduction
 
