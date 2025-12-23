@@ -1,6 +1,7 @@
 +++
 date = '2025-09-21'
 title = 'NixOS on Linode'
+tags = ['notes']
 +++
 ## Introduction
 

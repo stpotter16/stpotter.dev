@@ -1,6 +1,7 @@
 +++
 date = '2025-11-03'
 title = 'Configure Caddy on NixOS to serve a static site'
+tags = ['notes']
 +++
 ## Introduction
 
