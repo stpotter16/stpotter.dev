@@ -2,3 +2,6 @@ baseURL = 'https://stpotter.dev/'
 languageCode = 'en-us'
 title = 'stpotter.dev'
 theme = 'PaperMod'
+
+[params.posthog]
+  apiKey = 'phc_sri5Zmd3QKCbLnAUSh2gip36tU2rGw3ZBCjRofNvk6pZ'
